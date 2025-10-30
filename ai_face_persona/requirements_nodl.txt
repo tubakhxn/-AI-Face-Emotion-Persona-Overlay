@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+opencv-contrib-python
+# transformers and torch are optional for text-mode; keep them if you plan to use text classifier
+transformers
+torch
+onnxruntime

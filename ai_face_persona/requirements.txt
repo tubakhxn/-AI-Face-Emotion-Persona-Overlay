@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+transformers
+torch
+opencv-contrib-python
+# DeepFace provides pre-built facial emotion models (will download weights on first run)
+deepface
+# optional small sound lib; using winsound on Windows avoids extra package
+# pygame

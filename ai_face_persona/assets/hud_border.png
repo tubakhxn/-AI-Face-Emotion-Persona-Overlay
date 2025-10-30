@@ -1,0 +1,4 @@
+This is a placeholder for hud_border.png. The app draws the HUD procedurally so this
+file is optional. If you want a custom PNG, replace this file with a valid image.
+
+Build by Tuba khan
